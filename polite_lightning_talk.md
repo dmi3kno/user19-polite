@@ -1,4 +1,4 @@
-﻿From the early days, we teach our kids to behave decent around the table to not grab food with their fingers. Yet, we somehow forget to tell the newcomers to the data community about the responsible web scraping practices. 
+From the early days, we teach our kids to behave decent around the table to not grab food with their fingers. Yet, we somehow forget to tell the newcomers to the data community about the responsible web scraping practices. 
 
 Today I want to talk to you about 4 of them. Here they are on the screen.
 
